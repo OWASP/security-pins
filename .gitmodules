@@ -1,0 +1,3 @@
+[submodule "security-pins"]
+	path = security-pins
+	url = git@github.com:wurstbrot/security-pins.git
